@@ -1,0 +1,19 @@
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank Insert Item-Location\bin\Debug\Frank Insert Item-Location.exe
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank Insert Item-Location\bin\Debug\Frank Insert Item-Location.pdb
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank Insert Item-Location\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.exe
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.pdb
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.pdb
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\bin\Debug\Frank Insert Item-Location.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\bin\Debug\Frank Insert Item-Location.pdb
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.pdb
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.exe
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.pdb
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\bin\Debug\Frank Insert Item-Location.exe
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\bin\Debug\Frank Insert Item-Location.pdb
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.exe
+M:\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Debug\Frank Insert Item-Location.pdb

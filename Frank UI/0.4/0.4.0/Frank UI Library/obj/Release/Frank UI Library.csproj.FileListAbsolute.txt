@@ -1,0 +1,17 @@
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\bin\Release\Frank UI Library.dll
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\bin\Release\Frank UI Library.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\obj\Release\Frank UI Library.dll
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\obj\Release\Frank UI Library.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\bin\Release\Frank UI Library.dll
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\bin\Release\Frank UI Library.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\mDataGridTreeView.g.cs
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\Frank UI Library_MarkupCompile.cache
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\Frank UI Library_MarkupCompile.lref
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\mDataGridTreeView.baml
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\Frank UI Library.g.resources
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\Frank UI Library.dll
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\Frank UI Library.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.4\Frank UI Library\obj\Release\mResources.baml

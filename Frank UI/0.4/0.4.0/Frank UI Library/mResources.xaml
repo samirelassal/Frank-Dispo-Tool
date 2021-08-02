@@ -1,0 +1,20 @@
+﻿<ResourceDictionary x:Class="Frank_UI_Library.mResources"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:loc="clr-namespace:Frank_UI_Library"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+        <Style x:Key="TreeViewItemStyle" TargetType="{x:Type DataGridCell}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <TreeView>
+                            <TreeView.Items>
+                                <TreeViewItem Expanded="treeviewitem_expanded" Header="{Binding [Key]}" ItemsSource="{Binding [Items]}" Tag="{Binding RelativeSource={RelativeSource AncestorType={x:Type loc:mDataGridTreeView}}}">
+                                </TreeViewItem>
+                            </TreeView.Items>
+                        </TreeView>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </ResourceDictionary>

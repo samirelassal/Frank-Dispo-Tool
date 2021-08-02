@@ -1,0 +1,32 @@
+﻿<Window x:Class="Frank_UI.Manual"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frank_UI"
+        mc:Ignorable="d"
+        Title="Manual" Height="371.098" Width="564.451" WindowState="Maximized">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="4*"/>
+        </Grid.ColumnDefinitions>
+        <TreeView>
+            <TreeView.Items>
+                <TreeViewItem Name="trvFilter" Header="Filtern" Selected="trvFilter_Selected"/>
+                <TreeViewItem Name="trvArtikelAnsicht" Header="Artikel-Ansicht" Selected="trvArtikelAnsicht_Selected">
+                    <TreeViewItem.Items>
+                        <TreeViewItem Name="trvArtikelAnsicht_Spalten" Header="Spalten" Selected="trvArtikelAnsicht_Spalten_Selected"/>
+                    </TreeViewItem.Items>
+                </TreeViewItem>
+                <TreeViewItem Name="trvAuftragAnsicht" Header="Aufträge-Ansicht" Selected="trvAuftragAnsicht_Selected">
+                    <TreeViewItem.Items>
+                        <TreeViewItem Name="trvAuftragAnsicht_Spalten" Header="Spalten" Selected="trvAuftragAnsicht_Spalten_Selected"/>
+                    </TreeViewItem.Items>
+                </TreeViewItem>
+            </TreeView.Items>
+        </TreeView>
+        <WebBrowser Name="browser" Grid.Column="1"/>
+
+    </Grid>
+</Window>

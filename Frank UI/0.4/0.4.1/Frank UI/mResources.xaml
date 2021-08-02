@@ -1,0 +1,50 @@
+﻿<ResourceDictionary x:Class="Frank_UI.mResources"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:loc="clr-namespace:Frank_UI">
+    <Style x:Key="BaseStyle" TargetType="DataGridCell">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="DataGridCell">
+                    <ContentPresenter Content="{Binding Content, RelativeSource={RelativeSource TemplatedParent}}"></ContentPresenter>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="Red"/>
+                <Setter Property="Foreground" Value="Black"/>
+                <Setter Property="BorderThickness" Value="0"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <Style x:Key="DataGridTreeViewStyle" TargetType="loc:mTreeViewItem">
+        <Setter Property="MinHeight" Value="20"/>
+    </Style>
+
+    <Style x:Key="TreeViewItemStyle" TargetType="{x:Type DataGridCell}" BasedOn="{StaticResource BaseStyle}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate>
+                    <TreeView BorderThickness="0">
+                        <TreeView.Items>
+                            <loc:mTreeViewItem Style="{StaticResource DataGridTreeViewStyle}" Expanded="treeviewitem_expanded" Collapsed="treeviewitem_collapsed" Header="{Binding [Key]}" ItemsSource="{Binding [Items]}" Tag="{Binding RelativeSource={RelativeSource AncestorType={x:Type loc:mDataGridTreeView}}}">
+                            </loc:mTreeViewItem>
+                        </TreeView.Items>
+                    </TreeView>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
+
+<!--<DataGrid.RowStyle>
+    <Style TargetType="{x:Type DataGridRow}">
+        <Style.Triggers>
+            <Trigger Property="IsSelected" Value="True" >
+                <Setter Property="Background" Value="Red" />
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+</DataGrid.RowStyle>-->

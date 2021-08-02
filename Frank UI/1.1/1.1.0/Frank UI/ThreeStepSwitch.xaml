@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="Frank_UI.ThreeStepSwitch"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Frank_UI"
+             xmlns:sys="presentationc"
+             mc:Ignorable="d" 
+             Height="25" Width="75">
+    <UserControl.Resources>
+        <Visibility x:Key="grdPlusVisibility">Collapsed</Visibility>
+        <Visibility x:Key="grdMinusVisibility">Collapsed</Visibility>
+    </UserControl.Resources>
+    <Grid Name="grdMain">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border Name="bdExclude" Grid.Column="0" Background="#FFFF8A8A" MouseLeftButtonDown="bdExclude_MouseLeftButtonDown"/>
+        <Border Name="bdNeutral" Grid.Column="1" Background="White" MouseDown="bdNeutral_MouseDown"/>
+        <Border Name="bdInclude" Grid.Column="2" Background="#FF8AFF8A" MouseLeftButtonDown="bdInclude_MouseLeftButtonDown"/>
+        <Canvas Name="btnSwitch" Width="25" Background="#FF959595" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" MouseLeftButtonDown="btnSwitch_MouseLeftButtonDown" MouseLeftButtonUp="btnSwitch_MouseLeftButtonUp" MouseMove="btnSwitch_MouseMove" PreviewMouseLeftButtonDown="btnSwitch_PreviewMouseLeftButtonDown" PreviewMouseLeftButtonUp="btnSwitch_PreviewMouseLeftButtonUp" Grid.Column="1">
+            <Line X1="6" Y1="2" X2="2" Y2="12.5" Stroke="Gray"/>
+            <Line X1="6" Y1="23" X2="2" Y2="12.5" Stroke="Gray"/>
+            <Line X1="19" Y1="2" X2="23" Y2="12.5" Stroke="Gray"/>
+            <Line X1="19" Y1="23" X2="23" Y2="12.5" Stroke="Gray"/>
+            <Grid x:Name="grdPlus" Visibility="{DynamicResource grdPlusVisibility}">
+                <Line X1="12.5" Y1="7" X2="12.5" Y2="18" Stroke="White"/>
+                <Line X1="7" Y1="12.5" X2="18" Y2="12.5" Stroke="White"/>
+            </Grid>
+            <Grid x:Name="grdMinus" Visibility="{DynamicResource grdMinusVisibility}">
+                <Line X1="7" Y1="12.5" X2="18" Y2="12.5" StrokeThickness="2" Stroke="White"/>
+            </Grid>
+            <Canvas.Triggers>
+            </Canvas.Triggers>
+        </Canvas>
+
+    </Grid>
+</UserControl>

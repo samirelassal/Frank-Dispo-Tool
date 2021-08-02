@@ -1,0 +1,13 @@
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\bin\Release\Frank - ODBC Client.exe
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\bin\Release\Frank - ODBC Client.pdb
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\MainWindow.baml
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\MainWindow.g.cs
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\App.g.cs
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\Frank - ODBC Client_MarkupCompile.cache
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\Frank - ODBC Client.g.resources
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\Frank___ODBC_Client.Properties.Resources.resources
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\Frank - ODBC Client.exe
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Release\Frank - ODBC Client.pdb

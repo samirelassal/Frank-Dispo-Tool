@@ -1,0 +1,15 @@
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\bin\Debug\Frank - ODBC Client.exe
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\bin\Debug\Frank - ODBC Client.pdb
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\MainWindow.baml
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\MainWindow.g.cs
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\App.g.cs
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\Frank - ODBC Client_MarkupCompile.cache
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\Frank - ODBC Client.g.resources
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\Frank___ODBC_Client.Properties.Resources.resources
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\Frank - ODBC Client.exe
+C:\Dokumente und Einstellungen\selassaljr\Lokale Einstellungen\Anwendungsdaten\Temporary Projects\Frank - ODBC Client\obj\x86\Debug\Frank - ODBC Client.pdb
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank - ODBC Client\Frank - ODBC Client\obj\x86\Debug\Frank - ODBC Client.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank - ODBC Client\Frank - ODBC Client\obj\x86\Debug\Frank - ODBC Client.pdb

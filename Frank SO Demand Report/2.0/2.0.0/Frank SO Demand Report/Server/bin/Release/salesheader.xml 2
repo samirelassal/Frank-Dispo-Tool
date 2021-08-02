@@ -1,0 +1,1027 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Sales_x0020_Header" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Sales_x0020_Header">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Document_x0020_Type" type="xs:int" />
+                <xs:element name="No.">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="20" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Sell-to_x0020_Customer_x0020_No." minOccurs="0">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="20" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Sell-to_x0020_Customer_x0020_Name" minOccurs="0">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="30" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Sell-to_x0020_Customer_x0020_Name_x0020_2" minOccurs="0">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="30" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Liefertermin_x0020_frühestens" type="xs:dateTime" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Sales_x0020_Header" />
+        <xs:field xpath="No." />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16446</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10012</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Mitschke Reinigungstechnik</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-26T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16258</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10803</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>P &amp; W Reinigungssysteme GmbH  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-14T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16406</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10803</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>P &amp; W Reinigungssysteme GmbH  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-27T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16072</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10809</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Handwerks- und Industrietechni</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>k</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-06-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16216</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10820</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Kurt Schlosser Heiz.und Reinig</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>ungsgeräte</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-07-17T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16256</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10820</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Kurt Schlosser Heiz.und Reinig</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>ungsgeräte</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-07-24T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16393</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10820</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Kurt Schlosser Heiz.und Reinig</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>ungsgeräte</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-09-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB14898</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10849</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Ertl + Reuter GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2016-06-08T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16088</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10849</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Ertl + Reuter GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-30T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16245</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10849</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Ertl + Reuter GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16391</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10849</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Ertl + Reuter GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16433</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10849</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Ertl + Reuter GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-11-15T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16065</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10857</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>SC SERVICE CONCEPT Reinigungss</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>ysteme + Vertriebs-GmbH </Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-05-15T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16034</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10868</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>FRANK GmbH  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-12-05T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16397</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10868</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>FRANK GmbH  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-11T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16333</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10914</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>ILG Reinigungstechnik  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-02T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16078</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10923</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Weiss Reinigungstechnik e.K.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-30T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16270</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10923</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Weiss Reinigungstechnik e.K.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-07-28T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16308</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10923</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Weiss Reinigungstechnik e.K.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-16T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16326</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D10923</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Weiss Reinigungstechnik e.K.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-27T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16369</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D12139</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>MB Reinigungstechnik</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16170</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Waterkracht b.v.  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-07-24T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16260</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Waterkracht b.v.  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-07-24T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16265</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Waterkracht b.v.  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16327</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Waterkracht b.v.  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16442</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Waterkracht b.v.  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-22T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16368</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38016</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Equindus S.a.r.l  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16411</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38016</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Equindus S.a.r.l  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16422</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38016</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Equindus S.a.r.l  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-11-13T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16263</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38047</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Blitz + Blank Reinigungsmittel</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2> u. Maschinen HandelsGmbH</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16346</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38047</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Blitz + Blank Reinigungsmittel</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2> u. Maschinen HandelsGmbH</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-10-23T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16417</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38047</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Blitz + Blank Reinigungsmittel</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2> u. Maschinen HandelsGmbH</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-11-01T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16306</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38049</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>FRANK Belgium bvba.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-29T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16424</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38049</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>FRANK Belgium bvba.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-27T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16425</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D38049</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>FRANK Belgium bvba.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16144</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-06T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16179</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-28T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16222</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-28T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16230</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16233</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16234</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16239</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16240</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16292</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-11T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16293</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-10T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16294</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-23T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16355</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16357</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16359</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16360</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16361</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-02T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16362</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-02T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16376</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-05T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16387</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-02T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16388</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-02T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16390</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16394</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16395</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2018-01-02T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16396</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-11-15T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16402</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16414</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16416</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16426</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16427</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16428</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16432</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16439</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Aasland Teknikk AS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16338</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48006</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Manser Handwerkercenter AG</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-23T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16217</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D48050</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>FENCO  </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-28T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16370</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50045</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Renk Aktiengesellschaft</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-11T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16379</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50166</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Scheufler Reinigungstechnik</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-10T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16383</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50201</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Baltes Reinigungssysteme</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-11T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB15916</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50237</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>ALPHATEC S.A.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-03-22T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16343</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50237</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>ALPHATEC S.A.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-25T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16413</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50293</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>UNIKONT Group s.r.o</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-11-13T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16246</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50310</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Müller Maschinen</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-07-17T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16247</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50310</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Müller Maschinen</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16289</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50310</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Müller Maschinen</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-18T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16117</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-06T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16336</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-23T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16337</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-31T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16378</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-14T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16412</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-18T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16420</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16435</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50329</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>OspreyDeepclean Ltd.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-20T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16238</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50347</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Industrievertr.Hande&amp;Dienst-</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16244</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50347</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Industrievertr.Hande&amp;Dienst-</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16385</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50347</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Industrievertr.Hande&amp;Dienst-</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-31T00:00:00+01:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16423</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50347</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Industrievertr.Hande&amp;Dienst-</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-22T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16206</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50466</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Klens Fertigungstechnik</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16366</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50683</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Tammiholma Oy</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-08T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16430</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50700</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Phantasialand GmbH &amp; Co. KG</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-20T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16380</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50738</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Holtegel GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16404</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50783</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>SC REBTIC SRL</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-09T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16415</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50783</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>SC REBTIC SRL</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-26T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16335</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50794</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Maintal Konfitüren GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-23T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16445</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50868</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Gemeinde Sylt</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-22T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB15661</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50879</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Bright Rainbow a.s.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-04T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16152</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D50879</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Bright Rainbow a.s.</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-07T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16185</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Groz-Beckert KG</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16192</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Groz-Beckert KG</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16431</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Groz-Beckert KG</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-25T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16443</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51002</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Groz-Beckert KG</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-22T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16314</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51008</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Wailua e.K</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-15T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16191</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51012</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>DÜRR CLEANING France SAS</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-23T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16066</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51088</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>AS Schmidt GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-06T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16299</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51088</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>AS Schmidt GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16098</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51111</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Liebherr-Werk Nenzing GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-06T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16283</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51111</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Liebherr-Werk Nenzing GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16274</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51173</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Fischer &amp; Kaufmann GmbH &amp; Co. </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>KG</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-08-21T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16208</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51428</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>ENOMAX Groupe Supratec</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-06-30T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16444</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51535</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Firma Ron, s.r.o</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-29T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16434</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51617</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Universität Siegen Department </Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>Maschinenbau</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-09-20T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16108</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51679</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>iWASH Bilvask</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-12T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16440</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51736</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Fraunhofer IVV Außenstelle für</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-22T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16321</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51783</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Messerfabrik Neuenkamp GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-08-28T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16202</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51785</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Active Nutrition International</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2> GmbH</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-08-31T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16243</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51795</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>D.D.V.GmbH ( Dulevo Deutschlan</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2>d )</Sell-to_x0020_Customer_x0020_Name_x0020_2>
+    <Liefertermin_x0020_frühestens>2017-09-01T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16235</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51831</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Reifen Gundlach</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-28T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16410</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51843</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>H&amp;P Trading GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-25T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16344</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51848</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>Haase Tank GmbH</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-10-13T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+  <Sales_x0020_Header>
+    <Document_x0020_Type>1</Document_x0020_Type>
+    <No.>VB16441</No.>
+    <Sell-to_x0020_Customer_x0020_No.>D51851</Sell-to_x0020_Customer_x0020_No.>
+    <Sell-to_x0020_Customer_x0020_Name>StuckArt</Sell-to_x0020_Customer_x0020_Name>
+    <Sell-to_x0020_Customer_x0020_Name_x0020_2 />
+    <Liefertermin_x0020_frühestens>2017-09-25T00:00:00+02:00</Liefertermin_x0020_frühestens>
+  </Sales_x0020_Header>
+</NewDataSet>

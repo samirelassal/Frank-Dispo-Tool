@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:loc="clr-namespace:WpfApplication1"
+        Title="MainWindow" Height="530" Width="818" Loaded="Window_Loaded">
+    <Grid>
+        <loc:mDataGridTreeView x:Name="dgtv" Margin="0,0,0,247">
+            <loc:mDataGridTreeView.Columns>
+                <loc:mDataGridColumn Caption="Key" CellType="TreeViewItem" EnableFilter="True" Binding="{Binding [Key]}" ></loc:mDataGridColumn>
+                <loc:mDataGridColumn Caption="Value" CellType="Text" EnableFilter="True" Binding="{Binding [Value]}"></loc:mDataGridColumn>
+            </loc:mDataGridTreeView.Columns>
+        </loc:mDataGridTreeView>
+    </Grid>
+</Window>

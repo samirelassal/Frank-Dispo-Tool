@@ -1,0 +1,15 @@
+﻿<Window x:Class="mUserControls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:loc="clr-namespace:mUserControls"
+        Title="Sample" Height="530" Width="818" Loaded="Window_Loaded">
+    <Grid>
+        <loc:mDataGridTreeView x:Name="dgtv" Margin="0,0,0,0">
+            <loc:mDataGridTreeView.Columns>
+                <loc:mDataGridColumn Caption="Key" CellType="TreeViewItem" EnableFilter="True" ></loc:mDataGridColumn>
+                <loc:mDataGridColumn Caption="Value" CellType="Text" EnableFilter="True"></loc:mDataGridColumn>
+                <loc:mDataGridColumn Caption="Value" CellType="Text" EnableFilter="True"></loc:mDataGridColumn>
+            </loc:mDataGridTreeView.Columns>
+        </loc:mDataGridTreeView>
+    </Grid>
+</Window>

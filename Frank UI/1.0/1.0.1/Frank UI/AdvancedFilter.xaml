@@ -1,0 +1,35 @@
+﻿<Window x:Class="Frank_UI.AdvancedFilter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frank_UI"
+        mc:Ignorable="d"
+        Title="AdvancedFilter" WindowState="Maximized">
+    <Grid>
+        <Label Content="Filter String:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="80"/>
+        <TextBox Name="txtFilterString" HorizontalAlignment="Stretch" Height="23" Margin="90,14,90,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top"/>
+        <ComboBox Name="cmbDataTable" HorizontalAlignment="Left" Margin="90,42,0,0" VerticalAlignment="Top" Width="180">
+            <ComboBox.Items>
+                <ComboBoxItem>Calculated_Item</ComboBoxItem>
+                <ComboBoxItem>Calculated_Sale</ComboBoxItem>
+                <ComboBoxItem>Calculated_Requisition</ComboBoxItem>
+                <ComboBoxItem>Calculated_Purchase</ComboBoxItem>
+                <ComboBoxItem>SalesHeader</ComboBoxItem>
+            </ComboBox.Items>
+        </ComboBox>
+        <Label Content="DataTable:" HorizontalAlignment="Left" Margin="10,42,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Name="btnGo" Content="Go!" HorizontalAlignment="Right" Margin="0,14,10,0" VerticalAlignment="Top" Width="75" Height="23" Click="btnGo_Click"/>
+        <TabControl HorizontalAlignment="Stretch"  Margin="0,70,0,0" VerticalAlignment="Stretch">
+            <TabItem Header="Data">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid Name="dgr" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" AutoGeneratingColumn="dgr_AutoGeneratingColumn"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Meta">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

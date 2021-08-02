@@ -1,0 +1,5 @@
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\bin\Release\Frank Insert Item-Location.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\bin\Release\Frank Insert Item-Location.pdb
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Release\Frank Insert Item-Location.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank Insert Item-Location\Frank Insert Item-Location\obj\x86\Release\Frank Insert Item-Location.pdb

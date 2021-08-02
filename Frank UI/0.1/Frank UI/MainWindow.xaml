@@ -1,0 +1,59 @@
+﻿<Window x:Class="Frank_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Produktion" Height="1194" Width="1108" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="233*" />
+            <RowDefinition Height="140*" />
+            <RowDefinition Height="24" />
+        </Grid.RowDefinitions>
+        <GridSplitter Height="5" HorizontalAlignment="Stretch" Name="gspHorizontal" VerticalAlignment="Top" ResizeDirection="Auto" Grid.Row="2"/>
+        <TreeView HorizontalAlignment="Stretch" Margin="0,34,0,0" Name="trv" VerticalAlignment="Stretch" Grid.Row="1" SelectedItemChanged="trv_SelectedItemChanged">
+        </TreeView>
+        <StatusBar Grid.Row="3" Height="23" HorizontalAlignment="Stretch" Name="statusBar1" VerticalAlignment="Bottom"/>
+        <Grid Grid.Row="2" Margin="0, 5, 0, 0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="#DDEEFF">
+            <Label Content="Informationen" Height="28" HorizontalAlignment="Stretch" Name="lblInfo" VerticalAlignment="Top" HorizontalContentAlignment="Center" />
+            <Label Content="Artikelnummer + Beschreibung" Height="28" HorizontalAlignment="Left" Margin="6,34,0,0" Name="lblArtikelnr" VerticalAlignment="Top" FontSize="15" FontWeight="Bold" />
+            <GroupBox Header="Aktionen" Height="261" HorizontalAlignment="Left" Margin="337,68,0,0" Name="groupBox2" VerticalAlignment="Top" Width="234">
+                <Grid>
+                    <Label Content="Fertigungsstelle:" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="label1" VerticalAlignment="Top" />
+                    <Label Content="SW" Height="28" HorizontalAlignment="Left" Margin="106,6,0,0" Name="lblFertigungsstelle" VerticalAlignment="Top" />
+                    <Label Content="Fehlende Menge:" Height="28" HorizontalAlignment="Left" Margin="6,32,0,0" Name="label3" VerticalAlignment="Top" />
+                    <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="106,32,0,0" Name="lblFehlendeMenge" VerticalAlignment="Top" />
+                    <Label Content="Beschreibung:" Height="28" HorizontalAlignment="Left" Margin="6,58,0,0" Name="label6" VerticalAlignment="Top" />
+                    <TextBlock Height="80" HorizontalAlignment="Left" Margin="12,84,0,0" Name="tblErforderlicheAktion" Text="Text..." VerticalAlignment="Top" Width="204" TextWrapping="Wrap" />
+                </Grid>
+            </GroupBox>
+            <ListBox Height="248" HorizontalAlignment="Right" Margin="0,79,6,0" Name="lbxInItems" VerticalAlignment="Top" Width="176" />
+            <Label Content="Wird für folgende Artikel benötigt:" Height="28" HorizontalAlignment="Right" Margin="0,45,6,0" Name="label7" VerticalAlignment="Top" />
+            <Label Content="Wird in folgenden Bestellungen benötigt:" Height="28" HorizontalAlignment="Left" Margin="577,45,0,0" Name="label9" VerticalAlignment="Top" />
+            <DataGrid AlternatingRowBackground="#DDEEFF" AutoGenerateColumns="True" Height="249" HorizontalAlignment="Stretch" Margin="577,79,194,0" Name="dgrdInSales" VerticalAlignment="Top" GridLinesVisibility="None">
+
+            </DataGrid>
+        </Grid>
+        <GroupBox Header="Allgemein" HorizontalAlignment="Left" Margin="6,73,0,0" Name="groupBox1" VerticalAlignment="Top" Width="325" Grid.Row="2">
+            <Grid>
+                <Label Content="Beschaffungsmethode:" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="label2" VerticalAlignment="Top" />
+                <Label Content="Einkauf/Fertigungsauftrag" Height="28" HorizontalAlignment="Left" Margin="169,6,0,0" Name="lblBeschaffung" VerticalAlignment="Top" />
+                <Label Content="Einheit:" Height="28" HorizontalAlignment="Left" Margin="6,32,0,0" Name="label4" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,58,0,0" Name="lblMengeBenoetigt" VerticalAlignment="Top" />
+                <Label Content="Menge Benötigt:" Height="28" HorizontalAlignment="Left" Margin="6,58,0,0" Name="label5" VerticalAlignment="Top" />
+                <Label Content="STK" Height="28" HorizontalAlignment="Left" Margin="169,32,0,0" Name="lblEinheit" VerticalAlignment="Top" />
+                <Label Content="Lagerbestand:" Height="28" HorizontalAlignment="Left" Margin="6,84,0,0" Name="label8" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,84,0,0" Name="lblLagerbestand" VerticalAlignment="Top" />
+                <Label Content="Im Auftrag:" Height="28" HorizontalAlignment="Left" Margin="6,110,0,0" Name="label10" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,110,0,0" Name="lblImAuftrag" VerticalAlignment="Top" />
+                <Label Content="Im Einkauf:" Height="28" HorizontalAlignment="Left" Margin="6,136,0,0" Name="label12" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,136,0,0" Name="lblImEinkauf" VerticalAlignment="Top" />
+                <Label Content="In Fertigung:" Height="28" HorizontalAlignment="Left" Margin="6,162,0,0" Name="label14" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,162,0,0" Name="lblInFertigung" VerticalAlignment="Top" />
+                <Label Content="In Fertigung in Komponenten:" Height="28" HorizontalAlignment="Left" Margin="6,188,0,0" Name="label16" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,188,0,0" Name="lblInFertigungInKomponente" VerticalAlignment="Top" />
+                <Label Content="In Materialanforderungen:" Height="28" HorizontalAlignment="Left" Margin="6,214,0,0" Name="label18" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,214,0,0" Name="lblInMaterialanforderung" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Window>

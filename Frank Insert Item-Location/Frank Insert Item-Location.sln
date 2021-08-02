@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frank Insert Item-Location", "Frank Insert Item-Location\Frank Insert Item-Location.csproj", "{018B46F2-748E-4804-A2D4-34FE9956CAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{1B4CECB7-92C9-48E3-A1C6-98832B5A57BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018B46F2-748E-4804-A2D4-34FE9956CAD5}.Debug|x86.ActiveCfg = Debug|x86
+		{018B46F2-748E-4804-A2D4-34FE9956CAD5}.Debug|x86.Build.0 = Debug|x86
+		{018B46F2-748E-4804-A2D4-34FE9956CAD5}.Release|x86.ActiveCfg = Release|x86
+		{018B46F2-748E-4804-A2D4-34FE9956CAD5}.Release|x86.Build.0 = Release|x86
+		{1B4CECB7-92C9-48E3-A1C6-98832B5A57BC}.Debug|x86.ActiveCfg = Debug|x86
+		{1B4CECB7-92C9-48E3-A1C6-98832B5A57BC}.Debug|x86.Build.0 = Debug|x86
+		{1B4CECB7-92C9-48E3-A1C6-98832B5A57BC}.Release|x86.ActiveCfg = Release|x86
+		{1B4CECB7-92C9-48E3-A1C6-98832B5A57BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

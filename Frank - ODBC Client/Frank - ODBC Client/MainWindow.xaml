@@ -1,0 +1,8 @@
+﻿<Window x:Class="Frank___ODBC_Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="455" Width="654">
+    <Grid>
+        <DataGrid AutoGenerateColumns="True" HorizontalAlignment="Stretch" Name="grdResult" VerticalAlignment="Stretch"/>
+    </Grid>
+</Window>

@@ -1,0 +1,5 @@
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Test\bin\Debug\Test.exe
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Test\bin\Debug\Test.pdb
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Test\obj\x86\Debug\Test.exe
+H:\selassaljr\iCloudDrive\Frank Programme\Frank Insert Item-Location\Test\obj\x86\Debug\Test.pdb

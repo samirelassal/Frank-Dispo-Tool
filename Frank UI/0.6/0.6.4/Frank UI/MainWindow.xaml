@@ -1,0 +1,124 @@
+﻿<Window x:Class="Frank_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:loc="clr-namespace:Frank_UI"
+        Title="Dispo-Tool" Height="1194" Width="1108" WindowState="Maximized">
+    <Window.Resources>
+        <ResourceDictionary Source="mResources.xaml"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30" />
+            <RowDefinition Height="233*" />
+            <RowDefinition MinHeight="375" Height="375" />
+            <RowDefinition Height="24" />
+        </Grid.RowDefinitions>
+        <GridSplitter Height="5" HorizontalAlignment="Stretch" Name="gspHorizontal" VerticalAlignment="Top" ResizeDirection="Auto" Grid.Row="2"/>
+
+        <StatusBar Grid.Row="3" Height="26" HorizontalAlignment="Stretch" Name="statusBar1" VerticalAlignment="Bottom">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="5, 0">
+                <StatusBarItem>Anzahl Verkaufsaufträge:</StatusBarItem>
+                <StatusBarItem Margin="0, 0, 5, 0" Name="lblNumberOfSales">-</StatusBarItem>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="5, 0">
+                <StatusBarItem>Anzahl Artikel:</StatusBarItem>
+                <StatusBarItem Margin="0, 0, 5, 0" Name="lblNumberofItems">-</StatusBarItem>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Stretch" Margin="5, 0">
+                <StatusBarItem>Letzte Aktualisierung:</StatusBarItem>
+                <StatusBarItem Margin="0, 0, 5, 0" Name="lblLastUpdate">-</StatusBarItem>
+            </StackPanel>
+        </StatusBar>
+        <Grid Grid.Row="2" Margin="0, 5, 0, 0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Background="{StaticResource ResourceKey=Contrast}">
+            <Label Content="Informationen" Height="28" HorizontalAlignment="Stretch" Name="lblInfo" VerticalAlignment="Top" HorizontalContentAlignment="Center" />
+            <Label Content="Artikelnummer + Beschreibung" Height="28" HorizontalAlignment="Left" Margin="6,34,0,0" Name="lblArtikelnr" VerticalAlignment="Top" FontSize="15" FontWeight="Bold" />
+            <Label Content="Beschreibung:" Height="28" HorizontalAlignment="Left" Margin="337,65,0,0" Name="label6" VerticalAlignment="Top" />
+            <TextBlock HorizontalAlignment="Left" Margin="337,93,0,10" x:Name="tblErforderlicheAktion" VerticalAlignment="Stretch" Width="204" TextWrapping="Wrap" ><Run Text="Text..."/><Run Text="s"/></TextBlock>
+
+            <Label Content="Wird in folgenden Aufträgen benötigt:" Height="28" HorizontalAlignment="Left" Margin="576,65,0,0" Name="label9" VerticalAlignment="Top" />
+            <DataGrid IsReadOnly="True" AlternatingRowBackground="{StaticResource ResourceKey=Contrast}" AutoGenerateColumns="True" HorizontalAlignment="Stretch" Margin="576,93,11,10" Name="dgrdInSales" VerticalAlignment="Stretch" GridLinesVisibility="None" CanUserResizeRows="False" Sorting="dgrdInSales_Sorting" SelectionChanged="dgrdInSales_SelectionChanged">
+
+            </DataGrid>
+        </Grid>
+        <GroupBox Header="Allgemein" HorizontalAlignment="Left" Margin="6,73,0,10" Name="groupBox1" VerticalAlignment="Stretch" Width="325" Grid.Row="2">
+            <Grid>
+                <Label Content="Beschaffungsmethode:" Height="28" HorizontalAlignment="Left" Margin="6,6,0,0" Name="label2" VerticalAlignment="Top" />
+                <Label Content="Einkauf/Fertigungsauftrag" Height="28" HorizontalAlignment="Left" Margin="169,6,0,0" Name="lblBeschaffung" VerticalAlignment="Top" />
+                <Label Content="Einheit:" Height="28" HorizontalAlignment="Left" Margin="6,32,0,0" Name="label4" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,58,0,0" Name="lblMengeBenoetigt" VerticalAlignment="Top" />
+                <Label Content="Menge Benötigt:" Height="28" HorizontalAlignment="Left" Margin="6,58,0,0" Name="label5" VerticalAlignment="Top" />
+                <Label Content="STK" Height="28" HorizontalAlignment="Left" Margin="169,32,0,0" Name="lblEinheit" VerticalAlignment="Top" />
+                <Label Content="Lagerbestand:" Height="28" HorizontalAlignment="Left" Margin="6,84,0,0" Name="label8" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,84,0,0" Name="lblLagerbestand" VerticalAlignment="Top" />
+                <Label Content="Im Auftrag:" Height="28" HorizontalAlignment="Left" Margin="6,110,0,0" Name="label10" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,110,0,0" Name="lblImAuftrag" VerticalAlignment="Top" />
+                <Label Content="Im Einkauf:" Height="28" HorizontalAlignment="Left" Margin="6,136,0,0" Name="label12" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,136,0,0" Name="lblImEinkauf" VerticalAlignment="Top" />
+                <Label Content="In Fertigung:" Height="28" HorizontalAlignment="Left" Margin="6,162,0,0" Name="label14" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,162,0,0" Name="lblInFertigung" VerticalAlignment="Top" />
+                <Label Content="In Fertigung in Komponenten:" Height="28" HorizontalAlignment="Left" Margin="6,188,0,0" Name="label16" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,188,0,0" Name="lblInFertigungInKomponente" VerticalAlignment="Top" />
+                <Label Content="In Materialanforderungen:" Height="28" HorizontalAlignment="Left" Margin="6,214,0,0" Name="label18" VerticalAlignment="Top" />
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,214,0,0" Name="lblInMaterialanforderung" VerticalAlignment="Top" />
+                <Label Content="Fehlende Menge:" HorizontalAlignment="Left" Margin="6,240,0,0" VerticalAlignment="Top"/>
+                <Label Content="10000" Height="28" HorizontalAlignment="Left" Margin="169,240,0,0" x:Name="lblMissingQuantity" VerticalAlignment="Top" />
+            </Grid>
+        </GroupBox>
+        <Label Visibility="Hidden" Content="Suchen:" Grid.Row="1" Height="28" HorizontalAlignment="Left" Name="label11" VerticalAlignment="Top" Margin="0,3,0,0" />
+        <TextBox Visibility="Hidden" Grid.Row="1" Height="23" HorizontalAlignment="Left" Margin="55,5,0,0" Name="txtSearch" VerticalAlignment="Top" Width="135" TextChanged="txtSearch_TextChanged" />
+        <Menu Height="23" HorizontalAlignment="Stretch" Name="menu1" VerticalAlignment="Top">
+            <MenuItem Header="_Datei">
+                <MenuItem Command="Stop" IsEnabled="True"></MenuItem>
+            </MenuItem>
+            <MenuItem Header="B_earbeiten">
+                <MenuItem Command="Search" IsCheckable="True"></MenuItem>
+                <MenuItem Header="Daten aktualisieren" Name="mitmUpdateData" Click="mitmUpdateData_Click"></MenuItem>
+                <MenuItem Header="Alle Filter zurücksetzen" Name="mitmResetFilters" Click="mitmResetFilters_Click"></MenuItem>
+            </MenuItem>
+            <MenuItem Visibility="Collapsed" Header="_Ansicht">
+                <MenuItem Name="mitmExpandAll" Visibility="Collapsed" IsEnabled="False" Header="Alle Ausklappen" Click="mitmExpandAll_Click"></MenuItem>
+                <MenuItem Name="mitmCollapseAll" Visibility="Collapsed" Header="Alle Einklappen" IsEnabled="False" Click="mitmCollapseAll_Click"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <TabControl HorizontalAlignment="Stretch"  Margin="0,0,0,0" Grid.Row="1" VerticalAlignment="Stretch">
+            <TabItem Header="Artikel">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid Visibility="Visible" AlternatingRowBackground="{StaticResource ResourceKey=Contrast}" IsReadOnly="True" GridLinesVisibility="None" Grid.Row="1" Margin="0" AutoGenerateColumns="False" Name="dgr" SelectionChanged="dgr_SelectionChanged" Sorting="dgr_Sorting">
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn SortMemberPath="Status" DisplayIndex="0" Header="Status">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <ContentPresenter Content="{Binding Status, Converter={StaticResource StringToColor}}"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn Header="Beschaffungsmethode" Binding="{Binding Path= 'Replenishment System'}"/>
+                            <DataGridTextColumn Header="Artikelnummer" SortMemberPath="No." Binding="{Binding Path= [No.]}"/>
+                            <DataGridTextColumn Header="Benötigt bis Liefertermin" Binding="{Binding Path= 'Erforderlich bis Liefertermin'}"/>
+                            <DataGridTextColumn Header="Menge bis Liefertermin" Binding="{Binding Path= 'Menge bis Liefertermin'}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Verkaufsaufträge">
+                <Grid Background="#FFE5E5E5">
+                    <loc:mDataGridTreeView TreeViewItem_Expanded="trvItem_Expanded" TreeViewItem_Collapsed="trvItem_Collapsed" x:Name="dgtv" Grid.Row="1" Margin="0">
+                        <loc:mDataGridTreeView.Columns>
+                            <loc:mDataGridColumn DisplayIndex="3" Width="6*" Caption="Beschreibung" CellType="TreeViewItemText" EnableFilter="True" FilterOptionsClick="clmDescription_FilterOptionsClick"></loc:mDataGridColumn>
+                            <DataGridTemplateColumn DisplayIndex="0" SortMemberPath="[Status]" Header="Status">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <ContentPresenter Content="{Binding [Status], Converter={StaticResource StringToColor}}"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <loc:mDataGridColumn DisplayIndex="2" Width="3*" Caption="Kunde" EnableFilter="True" FilterOptionsClick="clmCustomer_FilterOptionsClick"></loc:mDataGridColumn>
+                            <loc:mDataGridColumn DisplayIndex="1" Width="*" Caption="Liefertermin frühestens" EnableFilter="True" FilterOptionsClick="clmDate_FilterOptionsClick"></loc:mDataGridColumn>
+                        </loc:mDataGridTreeView.Columns>
+                    </loc:mDataGridTreeView>
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

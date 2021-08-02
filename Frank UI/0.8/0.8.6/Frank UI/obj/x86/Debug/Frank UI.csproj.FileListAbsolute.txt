@@ -1,0 +1,1276 @@
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\bin\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\bin\Debug\Frank UI.pdb
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\App.g.cs
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\eigene dateien\visual studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\bin\Debug\Frank UI.exe
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\bin\Debug\Frank UI.pdb
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\App.g.cs
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\Documents\Visual Studio 2010\Projects\Frank UI\Frank UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\bin\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\bin\Debug\Frank UI.pdb
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\App.g.cs
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.1\Frank UI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\bin\Debug\Frank UI.exe
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\bin\Debug\Frank UI.pdb
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\mListTreeView.g.cs
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\App.g.cs
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\mListTreeView.baml
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.2\Frank UI\obj\x86\Debug\GenerateResource.write.1.tlog
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\mListTreeView.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\mListTreeView.baml
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.4\0.4.1\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.4\0.4.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\WindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.5\Frank UI\obj\x86\Debug\WindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\WindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\WindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\WindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\WindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\0.5.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\WindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\WindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.pdb
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Frank UI.exe
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Frank UI.pdb
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Client_Library.dll
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\bin\Debug\Client_Library.pdb
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\MainWindow.g.cs
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mResources.g.cs
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\WindowGetFilterString.g.cs
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\App.g.cs
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\MainWindow.baml
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\mResources.baml
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\WindowGetFilterString.baml
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.g.resources
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.exe
+\\SELASSAL-JR\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.3\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.5\0.5.4\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.5\0.5.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.1\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.3\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.6\0.6.5\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Helper_Library.dll
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.7\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.3\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Manual\Manual.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Manual\Manual.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Manual\pagFilter.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\Manual\pagFilter.baml
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\About.g.cs
+X:\Frank Programme\Frank UI\0.7\0.7.5\Frank UI\obj\x86\Debug\About.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\About.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\About.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Manual.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\obj\x86\Debug\Manual.baml
+X:\Frank Programme\Frank UI\0.8\0.8.0\Frank UI\bin\Debug\Helper_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\About.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Manual.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\About.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Manual.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\About.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\bin\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.1\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\About.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\FTP.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\FTP.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\About.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Helper_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\About.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Manual.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\About.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Manual.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.2\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Helper_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\About.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Manual.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\About.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Manual.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\About.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.3\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\FTP.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\FTP.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\About.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe.config
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Client_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\FTP.dll
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Helper_Library.dll
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Client_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\FTP.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Helper_Library.pdb
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\About.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Manual.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mResources.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\App.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\About.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\LoadingWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\MainWindow.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Manual.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mResources.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.application
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.exe
+X:\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\About.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.4\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\FTP.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\FTP.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\About.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\About.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.5\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\FTP.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\FTP.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\About.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\samir\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\FTP.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Client_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\FTP.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.csprojResolveAssemblyReference.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\About.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.Cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\selassaljr\iCloudDrive\Frank Programme\Frank UI\0.8\0.8.6\Frank UI\obj\x86\Debug\Frank UI.pdb

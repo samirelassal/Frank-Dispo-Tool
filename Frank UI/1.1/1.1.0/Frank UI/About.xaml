@@ -1,0 +1,13 @@
+﻿<Window x:Class="Frank_UI.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Frank_UI"
+        mc:Ignorable="d" Height="200" Width="300" WindowStartupLocation="CenterScreen" ResizeMode="NoResize"  Title="Über Frank Dispo-Tool" Loaded="Window_Loaded">
+    <StackPanel>
+        <TextBlock Name="tblVersion" Padding="10" TextWrapping="Wrap">Frank Dispo-Tool Version {version}</TextBlock>
+        <TextBlock Name="tblCopyright" Padding="10" TextWrapping="Wrap">© Samir El-Assal jr yyyy</TextBlock>
+        <TextBlock Padding="10" TextWrapping="Wrap">Rückmeldung, Feedback und Fragen bitte an samirelassaljr@frank-hdr.de</TextBlock>
+    </StackPanel>
+</Window>
