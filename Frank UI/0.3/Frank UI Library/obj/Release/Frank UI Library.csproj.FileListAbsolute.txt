@@ -1,5 +1,0 @@
-C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\bin\Release\Frank UI Library.dll
-C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\bin\Release\Frank UI Library.pdb
-C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\obj\Release\ResolveAssemblyReference.cache
-C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\obj\Release\Frank UI Library.dll
-C:\Dokumente und Einstellungen\selassaljr\ownCloud\Frank Programme\Frank UI\0.3\Frank UI Library\obj\Release\Frank UI Library.pdb

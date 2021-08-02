@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
-    <StartArguments>-filelocation "C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\1.6\1.6.1\Frank SO Demand Report\Server\bin\Release\\"</StartArguments>
-  </PropertyGroup>
-</Project>

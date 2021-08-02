@@ -1,6 +1,0 @@
-[ 24.09.2017 22:48:43 ]: System.Data.ConstraintException: Einschränkungen konnten nicht aktiviert werden. Mindestens eine Zeile enthält Werte die die Einschränkungen non-null, unique or foreign-key verletzen.
-   bei System.Data.DataTable.EnableConstraints()
-   bei System.Data.DataTable.set_EnforceConstraints(Boolean value)
-   bei System.Data.DataTable.ReadXml(XmlReader reader, Boolean denyResolving)
-   bei System.Data.DataTable.ReadXml(String fileName)
-   bei Helper_Library.Parent_Child_Item.LoadData(String Path) in C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\Frank SO Demand Report\Helper_Library\Parent_Child_Item.cs:Zeile 121.
