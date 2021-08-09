@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-Z:\ownCloud\Frank Programme\Frank UI\1.0\1.0.1\Frank UI\obj\x86\Debug\
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\
 Frank_UI
 none
 false
 DEBUG;TRACE
-Z:\ownCloud\Frank Programme\Frank UI\1.0\1.0.1\Frank UI\App.xaml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\App.xaml
 9551665267
 3580933779
 21706717798
-161411744866
+16-1239316666
 About.xaml;AdvancedFilter.xaml;LoadingWindow.xaml;MainWindow.xaml;Manual.xaml;mDataGridTreeView.xaml;mResources.xaml;mWindowGetFilterString.xaml;ThreeStepSwitch.xaml;
 
 False

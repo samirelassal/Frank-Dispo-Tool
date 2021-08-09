@@ -307,3 +307,15 @@ C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Proj
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.9\Frank SO Demand Report\Frank SO Demand Report\obj\Release\ResolveAssemblyReference.cache
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.9\Frank SO Demand Report\Frank SO Demand Report\obj\Release\Frank SO Demand Report.exe
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.9\Frank SO Demand Report\Frank SO Demand Report\obj\Release\Frank SO Demand Report.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\Frank SO Demand Report.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\Frank SO Demand Report.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\PdfSharp.Charting.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\de\MigraDoc.Rendering.resources.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\de\PdfSharp.resources.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\obj\Release\Frank SO Demand Report.csprojResolveAssemblyReference.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\obj\Release\Frank SO Demand Report.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Frank SO Demand Report\obj\Release\Frank SO Demand Report.pdb

@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.13
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frank UI", "Frank UI\Frank UI.csproj", "{705AE7CA-E2CF-428B-A28A-D5F19795BEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helper_Library", "..\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\Helper_Library.csproj", "{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_Library", "..\Frank SO Demand Report\Frank SO Demand Report\Client_Library\Client_Library.csproj", "{A027C805-53F6-4A9E-8433-9D9EC89BBD20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,8 +29,35 @@ Global
 		{705AE7CA-E2CF-428B-A28A-D5F19795BEE2}.Release|Mixed Platforms.Build.0 = Release|x86
 		{705AE7CA-E2CF-428B-A28A-D5F19795BEE2}.Release|x86.ActiveCfg = Release|x86
 		{705AE7CA-E2CF-428B-A28A-D5F19795BEE2}.Release|x86.Build.0 = Release|x86
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Debug|x86.Build.0 = Debug|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Release|x86.ActiveCfg = Release|Any CPU
+		{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}.Release|x86.Build.0 = Release|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Debug|x86.Build.0 = Debug|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Release|x86.ActiveCfg = Release|Any CPU
+		{A027C805-53F6-4A9E-8433-9D9EC89BBD20}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50CB804-0C31-4AD1-A98D-82B5BAF39856}
 	EndGlobalSection
 EndGlobal

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Release\
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\
 Frank_UI
 none
 false
 TRACE
-X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\App.xaml
-5-1656226747
-
-17-335636583
-15-1079510267
-LoadingWindow.xaml;MainWindow.xaml;mDataGridTreeView.xaml;mResources.xaml;mWindowGetFilterString.xaml;
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\App.xaml
+9551665267
+3580933779
+21706717798
+16-1051449228
+About.xaml;AdvancedFilter.xaml;LoadingWindow.xaml;MainWindow.xaml;Manual.xaml;mDataGridTreeView.xaml;mResources.xaml;mWindowGetFilterString.xaml;ThreeStepSwitch.xaml;
 
 False
 

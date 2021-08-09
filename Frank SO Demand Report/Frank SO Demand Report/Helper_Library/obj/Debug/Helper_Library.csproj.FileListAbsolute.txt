@@ -1,0 +1,6 @@
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\bin\Debug\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\bin\Debug\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\obj\Debug\Helper_Library.csproj.AssemblyReference.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\obj\Debug\Helper_Library.csproj.CoreCompileInputs.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\obj\Debug\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\obj\Debug\Helper_Library.pdb

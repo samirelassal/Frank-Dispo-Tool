@@ -62,7 +62,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>+JAahY7vj2PL3hGuFNw2efZ5AZY=</dsig:DigestValue>
+        <dsig:DigestValue>lawhYw+ghm8VL56iC/g/dF6VMnc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -86,19 +86,10 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tiPZ4t2o6iQQ7smEucybr1YCXA4=</dsig:DigestValue>
+        <dsig:DigestValue>jEhZZV8WuaDwWUOEQSUNkFj6/jo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="Client_Library.dll" size="11776">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-      <dsig:DigestValue>mxTQ+l0E8s+gFWzlP8iw0uUeUsc=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="Frank UI.exe.config" size="1323">
     <hash>
       <dsig:Transforms>

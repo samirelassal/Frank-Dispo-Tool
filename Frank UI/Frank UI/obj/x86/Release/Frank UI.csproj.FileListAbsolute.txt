@@ -165,3 +165,46 @@ X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Release\Frank_UI.Properti
 X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Release\Frank UI.csproj.GenerateResource.Cache
 X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Release\Frank UI.exe
 X:\Frank Programme\Frank UI\0.7\0.7.4\Frank UI\obj\x86\Release\Frank UI.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\app.config
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Frank UI.exe.config
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Frank UI.exe.manifest
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Frank UI.application
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Frank UI.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Frank UI.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Client_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\FTP.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Release\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.csproj.AssemblyReference.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\About.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\AdvancedFilter.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\LoadingWindow.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\MainWindow.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Manual.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\mDataGridTreeView.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\mResources.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\mWindowGetFilterString.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\ThreeStepSwitch.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\App.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI_Content.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI_MarkupCompile.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI_MarkupCompile.lref
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\About.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\AdvancedFilter.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\LoadingWindow.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\MainWindow.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Manual.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\mDataGridTreeView.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\mResources.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\mWindowGetFilterString.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\ThreeStepSwitch.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.g.resources
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank_UI.Properties.Resources.resources
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.csproj.GenerateResource.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.exe.manifest
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.application
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.csproj.CopyComplete
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Release\Frank UI.pdb

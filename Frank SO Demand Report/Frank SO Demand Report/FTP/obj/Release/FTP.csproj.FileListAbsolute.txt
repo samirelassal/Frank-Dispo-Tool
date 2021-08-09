@@ -3,3 +3,7 @@ C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Proj
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\1.1\Frank SO Demand Report\FTP\obj\Release\ResolveAssemblyReference.cache
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\1.1\Frank SO Demand Report\FTP\obj\Release\FTP.dll
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\1.1\Frank SO Demand Report\FTP\obj\Release\FTP.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\FTP\bin\Release\FTP.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\FTP\bin\Release\FTP.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\FTP\obj\Release\FTP.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\FTP\obj\Release\FTP.pdb

@@ -103,3 +103,12 @@ C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Proj
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.3\Frank SO Demand Report\Client_Library\obj\Release\Client_Library.pdb
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.3\Frank SO Demand Report\Client_Library\bin\Release\Client_Library.dll
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.3\Frank SO Demand Report\Client_Library\obj\Release\Client_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Release\Client_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Release\Client_Library.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Release\Client_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Release\FTP.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Release\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Release\FTP.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Release\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Release\Client_Library.csprojResolveAssemblyReference.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Release\Client_Library.exe

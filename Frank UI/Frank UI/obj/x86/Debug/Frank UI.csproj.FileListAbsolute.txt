@@ -1444,3 +1444,46 @@ Z:\ownCloud\Frank Programme\Frank UI\1.0\1.0.1\Frank UI\obj\x86\Debug\Frank UI.a
 Z:\ownCloud\Frank Programme\Frank UI\1.0\1.0.1\Frank UI\obj\x86\Debug\Frank UI.csproj.CopyComplete
 Z:\ownCloud\Frank Programme\Frank UI\1.0\1.0.1\Frank UI\obj\x86\Debug\Frank UI.exe
 Z:\ownCloud\Frank Programme\Frank UI\1.0\1.0.1\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\app.config
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Frank UI.exe.config
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Frank UI.exe.manifest
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Frank UI.application
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Frank UI.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Frank UI.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Client_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\FTP.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.csproj.AssemblyReference.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\About.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\AdvancedFilter.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\LoadingWindow.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\MainWindow.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Manual.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\mDataGridTreeView.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\mResources.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\mWindowGetFilterString.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\ThreeStepSwitch.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\App.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI_Content.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI_MarkupCompile.lref
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\About.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\AdvancedFilter.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\LoadingWindow.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\MainWindow.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Manual.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\mDataGridTreeView.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\mResources.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\mWindowGetFilterString.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\ThreeStepSwitch.baml
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.g.resources
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank_UI.Properties.Resources.resources
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.csproj.GenerateResource.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.csproj.CoreCompileInputs.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.exe.manifest
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.application
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.csproj.CopyComplete
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.pdb

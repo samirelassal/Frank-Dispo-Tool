@@ -23,3 +23,7 @@ C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Proj
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.2 Experimental I\Frank SO Demand Report\Helper_Library\obj\Release\ResolveAssemblyReference.cache
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.2 Experimental I\Frank SO Demand Report\Helper_Library\obj\Release\Helper_Library.dll
 C:\Dokumente und Einstellungen\selassaljr\Eigene Dateien\Visual Studio 2010\Projects\Frank SO Demand Report\2.0\2.0.2 Experimental I\Frank SO Demand Report\Helper_Library\obj\Release\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\obj\Release\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\bin\Release\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\bin\Release\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\obj\Release\Helper_Library.dll
