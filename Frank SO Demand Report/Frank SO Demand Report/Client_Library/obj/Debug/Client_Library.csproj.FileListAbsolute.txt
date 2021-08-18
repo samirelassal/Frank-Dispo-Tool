@@ -3,3 +3,14 @@ X:\iCloudDrive\Frank Programme\Frank SO Demand Report\1.1\Frank SO Demand Report
 X:\iCloudDrive\Frank Programme\Frank SO Demand Report\1.1\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.pdb
 X:\iCloudDrive\Frank Programme\Frank SO Demand Report\1.1\Frank SO Demand Report\Client_Library\bin\Debug\Client_Library.exe
 X:\iCloudDrive\Frank Programme\Frank SO Demand Report\1.1\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.exe
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.csproj.AssemblyReference.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.csproj.CoreCompileInputs.cache
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Debug\Client_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Debug\FTP.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Debug\Helper_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Debug\Helper_Library.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Debug\FTP.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.csproj.CopyComplete
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\bin\Debug\Client_Library.dll
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank SO Demand Report\Frank SO Demand Report\Client_Library\obj\Debug\Client_Library.dll

@@ -75,10 +75,6 @@
     <SignManifests>false</SignManifests>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Client_Library, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>.\Client_Library.dll</HintPath>
-    </Reference>
     <Reference Include="FTP">
       <HintPath>..\..\..\..\Frank SO Demand Report\2.0\2.0.3\Frank SO Demand Report\FTP\bin\Release\FTP.dll</HintPath>
     </Reference>
@@ -228,6 +224,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\Frank SO Demand Report\Frank SO Demand Report\Client_Library\Client_Library.csproj">
+      <Project>{a027c805-53f6-4a9e-8433-9d9ec89bbd20}</Project>
+      <Name>Client_Library</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Frank SO Demand Report\Frank SO Demand Report\Helper_Library\Helper_Library.csproj">
       <Project>{cd8a8b3d-c7fb-49a0-b207-4d767dc1a690}</Project>
       <Name>Helper_Library</Name>

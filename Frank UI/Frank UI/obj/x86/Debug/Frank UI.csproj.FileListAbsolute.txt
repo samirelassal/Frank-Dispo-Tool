@@ -1487,3 +1487,4 @@ C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Fra
 C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.csproj.CopyComplete
 C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.exe
 C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\obj\x86\Debug\Frank UI.pdb
+C:\Users\samir\Repositories\Frank-Dispo-Tool\Frank UI\Frank UI\bin\Debug\Client_Library.pdb

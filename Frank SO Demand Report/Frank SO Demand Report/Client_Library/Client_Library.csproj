@@ -6,7 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{A027C805-53F6-4A9E-8433-9D9EC89BBD20}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Client_Library</RootNamespace>
     <AssemblyName>Client_Library</AssemblyName>
@@ -35,6 +35,9 @@
     </StartupObject>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="FTP">
+      <HintPath>..\FTP\bin\Release\FTP.dll</HintPath>
+    </Reference>
     <Reference Include="PresentationFramework" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -49,10 +52,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\FTP\FTP.csproj">
-      <Project>{B4DD6D20-6BAA-458A-A1E4-38DBEBBA80F6}</Project>
-      <Name>FTP</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Helper_Library\Helper_Library.csproj">
       <Project>{CD8A8B3D-C7FB-49A0-B207-4D767DC1A690}</Project>
       <Name>Helper_Library</Name>
