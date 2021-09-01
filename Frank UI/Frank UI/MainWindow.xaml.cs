@@ -132,7 +132,7 @@ namespace Frank_UI
                     dgtv.Clear();
                     string result = "";
                     DispoClient.ClientVersion = Frank_UI.Properties.Resources.Version;
-                    result = DispoClient.GetData();
+                    result = DispoClient.GetData(ConfigurationManager.AppSettings.Get("ServerIP"));
                     if (result == "")
                     {
                         OpenData();

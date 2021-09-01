@@ -118,6 +118,7 @@
     </Compile>
     <Compile Include="Comparer.cs" />
     <Compile Include="ResourceHelper.cs" />
+    <Compile Include="Settings.cs" />
     <Compile Include="StringToSolidColorBrushValueConverter.cs" />
     <Compile Include="mWindowGetFilterString.xaml.cs">
       <DependentUpon>mWindowGetFilterString.xaml</DependentUpon>

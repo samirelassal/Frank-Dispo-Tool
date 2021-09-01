@@ -143,12 +143,16 @@ namespace Client_Library
         /// <summary>
         /// induce server to update the navision data
         /// </summary>
-        public static void RequestServerInformation()
+        public static void RequestServerInformation(string ServerIP = null)
         {
             bool broadcast_result = true;
             if (Server_IP == null)
-                broadcast_result = SendBroadcast();
-
+            {
+                if (string.IsNullOrEmpty(ServerIP))
+                    broadcast_result = SendBroadcast();
+                else
+                    Server_IP = ServerIP;
+            }
             if (broadcast_result)
             {
                 tcp = new TcpClient();
@@ -176,10 +180,10 @@ namespace Client_Library
             }
         }
 
-        public static string GetData()
+        public static string GetData(string ServerIP = null)
         {
             string result = "";
-            RequestServerInformation();
+            RequestServerInformation(ServerIP);
             if (serverInfo != null)
             {
                 if (Helper.CompareVersion(serverInfo.Value.RequiredVersion, ClientVersion))
